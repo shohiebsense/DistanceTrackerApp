@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DistanceTrackerApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_continue">Continue</string>
+    <string name="text_permission_description">Request Location Permission</string>
+    <string name="text_permission_title">Permission Required</string>
+    <string name="text_reset">Reset</string>
+    <string name="stop_button">Stop</string>
+    <string name="text_start">Start</string>
+    <string name="text_tap_on_location">Tap on location</string>
+    <string name="text_distance">Distance</string>
+    <string name="text_time">Time</string>
+    <string name="text_share">Share</string>
+    <string name="text_result_distance_value">%1$skm</string>
+
+</resources>
